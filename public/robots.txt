@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gymfood.com.sa/sitemap-ar.xml
+Sitemap: https://gymfood.com.sa/sitemap-en.xml

@@ -1,0 +1,88 @@
+[20-Mar-2025 02:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdateHeaderRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdateHeaderRequest.php on line 7
+[20-Mar-2025 03:26:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdateTeamRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdateTeamRequest.php on line 8
+[20-Mar-2025 05:20:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/SettingsRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/SettingsRequest.php on line 7
+[20-Mar-2025 06:03:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/SeoRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/SeoRequest.php on line 7
+[20-Mar-2025 06:48:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdateServiceRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdateServiceRequest.php on line 8
+[20-Mar-2025 06:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/RoleRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/RoleRequest.php on line 8
+[20-Mar-2025 07:08:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/LoginRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/LoginRequest.php on line 7
+[20-Mar-2025 07:19:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/ForgetPasswordRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/ForgetPasswordRequest.php on line 7
+[20-Mar-2025 09:04:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/CreateManagerRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/CreateManagerRequest.php on line 7
+[20-Mar-2025 09:36:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/ClientRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/ClientRequest.php on line 7
+[20-Mar-2025 10:19:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/ResetPasswordRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/ResetPasswordRequest.php on line 7
+[20-Mar-2025 10:32:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/SkillRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/SkillRequest.php on line 7
+[20-Mar-2025 10:34:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/AboutUsRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/AboutUsRequest.php on line 7
+[20-Mar-2025 11:17:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/CreateArticleRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/CreateArticleRequest.php on line 8
+[20-Mar-2025 12:02:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/FormFeildsRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/FormFeildsRequest.php on line 7
+[20-Mar-2025 12:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/TestimonialRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/TestimonialRequest.php on line 7
+[20-Mar-2025 12:53:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/EditProfileRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/EditProfileRequest.php on line 7
+[20-Mar-2025 13:03:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdateArticleRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdateArticleRequest.php on line 8
+[20-Mar-2025 13:16:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/CreateTeamRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/CreateTeamRequest.php on line 8
+[20-Mar-2025 15:00:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdatRoleManagerRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/UpdatRoleManagerRequest.php on line 7
+[20-Mar-2025 15:01:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/CreateServiceRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/CreateServiceRequest.php on line 8
+[20-Mar-2025 15:44:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/hulultec/s-alqhtani.com/app/Http/Requests/FaqRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Http/Requests/FaqRequest.php on line 7

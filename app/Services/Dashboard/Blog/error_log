@@ -1,0 +1,8 @@
+[16-Mar-2025 06:22:28 UTC] PHP Fatal error:  Uncaught Error: Interface "App\Services\Dashboard\Blog\IBlogService" not found in /home/hulultec/s-alqhtani.com/app/Services/Dashboard/Blog/BlogService.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Services/Dashboard/Blog/BlogService.php on line 7
+[19-Mar-2025 18:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface "App\Services\Dashboard\Blog\IBlogService" not found in /home/hulultec/s-alqhtani.com/app/Services/Dashboard/Blog/BlogService.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/app/Services/Dashboard/Blog/BlogService.php on line 7

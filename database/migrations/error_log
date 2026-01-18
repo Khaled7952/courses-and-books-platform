@@ -1,0 +1,104 @@
+[17-Mar-2025 08:18:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[17-Mar-2025 11:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_21_164247_create_headers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_21_164247_create_headers_table.php on line 7
+[17-Mar-2025 11:53:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_131716_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_131716_create_settings_table.php on line 7
+[17-Mar-2025 14:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132238_create_services_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132238_create_services_table.php on line 7
+[17-Mar-2025 14:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133057_create_faqs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133057_create_faqs_table.php on line 7
+[17-Mar-2025 14:32:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133724_create_forms_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133724_create_forms_table.php on line 7
+[17-Mar-2025 17:05:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[17-Mar-2025 18:22:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132741_create_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132741_create_clients_table.php on line 7
+[17-Mar-2025 18:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_26_221752_create_faq_details_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_26_221752_create_faq_details_table.php on line 7
+[17-Mar-2025 18:57:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132834_create_testimonials_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132834_create_testimonials_table.php on line 7
+[17-Mar-2025 19:02:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[17-Mar-2025 20:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133325_create_articles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133325_create_articles_table.php on line 7
+[17-Mar-2025 20:17:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_00_000000_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_00_000000_create_roles_table.php on line 7
+[17-Mar-2025 20:47:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132945_create_teams_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132945_create_teams_table.php on line 7
+[17-Mar-2025 21:28:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133150_create_about_us_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133150_create_about_us_table.php on line 7
+[17-Mar-2025 21:34:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_23_092037_create_skills_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_23_092037_create_skills_table.php on line 7
+[17-Mar-2025 23:18:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_134107_create_seos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_134107_create_seos_table.php on line 7
+[19-Mar-2025 08:31:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_00_000000_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_00_000000_create_roles_table.php on line 7
+[19-Mar-2025 08:36:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[19-Mar-2025 08:46:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[19-Mar-2025 09:05:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[19-Mar-2025 09:49:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_131716_create_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_131716_create_settings_table.php on line 7
+[19-Mar-2025 11:16:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132741_create_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132741_create_clients_table.php on line 7
+[19-Mar-2025 14:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132945_create_teams_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132945_create_teams_table.php on line 7
+[19-Mar-2025 20:20:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133057_create_faqs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_133057_create_faqs_table.php on line 7
+[20-Mar-2025 07:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132238_create_services_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hulultec/s-alqhtani.com/database/migrations/2025_01_04_132238_create_services_table.php on line 7
