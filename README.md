@@ -1,66 +1,182 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="360" alt="Laravel Logo">
+  </a>
 </p>
 
-## About Laravel
+<h1 align="center">Courses & Books Platform</h1>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<p align="center">
+  <b>Laravel 11</b> • Online Courses & Books E-Commerce • OTP Auth • Paymob Payments • Admin Analytics Dashboard
+</p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Laravel-11-red" alt="Laravel"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-8+-blue" alt="PHP"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Database-MySQL-orange" alt="MySQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pattern-Service%20%26%20Repository-6f42c1" alt="Patterns"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Payments-Paymob-success" alt="Paymob"></a>
+  <a href="#"><img src="https://img.shields.io/badge/UI-Bootstrap-7952B3" alt="Bootstrap"></a>
+</p>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<p align="center">
+  <a href="#-overview">Overview</a> •
+  <a href="#-key-features">Key Features</a> •
+  <a href="#-screenshots">Screenshots</a> •
+  <a href="#-architecture">Architecture</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-setup">Setup</a>
+</p>
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 📌 Overview
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+**Courses & Books Platform** is a full-stack web application built with **Laravel 11** that enables users to browse and purchase digital products (online courses & books), manage orders, and complete secure payments through **Paymob**.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+It includes a modern public website, a dynamic **AJAX cart experience**, and a powerful **Admin Dashboard** with analytics and management capabilities.
 
-## Laravel Sponsors
+---
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## ✨ Key Features
 
-### Premium Partners
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### 👤 Authentication & Security
+- Email verification via **OTP Code**
+- Password reset via **OTP email**
+- Secure login & user sessions
 
-## Contributing
+### 🛒 Cart & Checkout
+- Add to cart using **AJAX (Fetch API)**
+- Live cart count updates
+- VAT calculation & order summary
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+    </td>
+    <td width="50%" valign="top">
 
-## Code of Conduct
+### 💳 Online Payments (Paymob)
+- Visa / MasterCard / Mada
+- Apple Pay support
+- Secure hosted checkout flow
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### 🧑‍💼 Admin Panel & Management
+- Analytics dashboard (revenue / orders / status)
+- Orders management (search, details, status updates)
+- Content management (Courses, Books, Blog)
+- Roles & permissions for admin users
 
-## Security Vulnerabilities
+    </td>
+  </tr>
+</table>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+---
 
-## License
+## 🖼️ Screenshots
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+> All images are stored in: `README_ASSETS/`
+
+### 📊 Admin Dashboard (Analytics)
+
+<p align="center">
+  <img src="README_ASSETS/Dashboard1.png" alt="Dashboard 1" width="92%">
+</p>
+
+<p align="center">
+  <img src="README_ASSETS/Dashboard2.png" alt="Dashboard 2" width="92%">
+</p>
+
+---
+
+### 📦 Orders Management
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="README_ASSETS/order1.png" alt="Order List" width="100%">
+    </td>
+    <td width="50%">
+      <img src="README_ASSETS/order2.png" alt="Order Details" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Public Website
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="README_ASSETS/web1.png" alt="Website 1" width="100%">
+    </td>
+    <td width="50%">
+      <img src="README_ASSETS/web2.png" alt="Website 2" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛒 Add to Cart (AJAX) & Cart
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="README_ASSETS/addtocart.png" alt="Add to cart" width="100%">
+    </td>
+    <td width="50%">
+      <img src="README_ASSETS/cartcontent.png" alt="Cart content" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💳 Payments (Paymob)
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="README_ASSETS/Payment.png" alt="Payment" width="100%">
+    </td>
+    <td width="50%">
+      <img src="README_ASSETS/Paymob.png" alt="Paymob" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧱 Architecture
+
+This project follows clean, scalable principles:
+
+- **Service Layer Pattern**
+- **Repository Pattern**
+- Separation of concerns
+- Maintainable structure and reusable business logic
+
+**Why this matters:**
+- Easier testing & feature expansion
+- Business logic is isolated from controllers
+- Database queries are abstracted in repositories
+
+---
+
+## 🧰 Tech Stack
+
+| Layer | Technology |
+|------|------------|
+| Backend | Laravel 11, PHP 8+ |
+| Frontend | Blade, Bootstrap, JavaScript |
+| AJAX | Fetch API |
+| Database | MySQL |
+| Payments | Paymob (Cards + Apple Pay) |
+| Auth | OTP via Email (Verification + Reset) |
+| Analytics | Charts + Dashboard Widgets |
+
+---
+
