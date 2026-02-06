@@ -128,7 +128,7 @@ It includes a modern public website, a dynamic **AJAX cart experience**, and a p
       <img src="README_ASSETS/addtocart.png" alt="Add to cart" width="100%">
     </td>
     <td width="50%">
-      <img src="README_ASSETS/cartcontent.png" alt="Cart content" width="100%">
+      <img src="README_ASSETS/cartconent.png" alt="Cart content" width="100%">
     </td>
   </tr>
 </table>
@@ -179,4 +179,25 @@ This project follows clean, scalable principles:
 | Analytics | Charts + Dashboard Widgets |
 
 ---
+## ⭐ Project Highlights
+
+- Built with **Laravel 11** using clean architecture principles
+- Fully AJAX-powered cart experience
+- OTP-based authentication & password recovery
+- Secure payment integration with Paymob
+- Analytics-rich admin dashboard
+- Scalable service & repository pattern implementation
+
+---
+
+## 👨‍💻 Developed By
+
+**Khaled Ahmed (Altqani)**  
+Full-Stack Laravel Developer  
+
+- Expertise in Laravel, REST APIs & Payment Integrations  
+- Focused on clean architecture & scalable systems  
+
+📧 Email: akhaled795@gmail.com  
+🔗 GitHub: https://github.com/Khaled7952
 
